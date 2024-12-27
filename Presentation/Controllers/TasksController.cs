@@ -1,6 +1,10 @@
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+
 namespace Presentation.Controllers;
 
-public class TasksController
-{
+[ApiController]
+public class TasksController(ISender _sender) : ControllerBase
+{   
     
 }

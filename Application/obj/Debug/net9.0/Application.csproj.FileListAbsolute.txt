@@ -1,0 +1,15 @@
+/home/sergioff/Development/dotnet/dottask/Application/bin/Debug/net9.0/Application.deps.json
+/home/sergioff/Development/dotnet/dottask/Application/bin/Debug/net9.0/Application.dll
+/home/sergioff/Development/dotnet/dottask/Application/bin/Debug/net9.0/Application.pdb
+/home/sergioff/Development/dotnet/dottask/Application/bin/Debug/net9.0/Domain.dll
+/home/sergioff/Development/dotnet/dottask/Application/bin/Debug/net9.0/Domain.pdb
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.dll
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/refint/Application.dll
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/Application.pdb
+/home/sergioff/Development/dotnet/dottask/Application/obj/Debug/net9.0/ref/Application.dll

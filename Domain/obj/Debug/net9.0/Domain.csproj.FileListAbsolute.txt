@@ -1,0 +1,11 @@
+/home/sergioff/Development/dotnet/dottask/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/sergioff/Development/dotnet/dottask/Domain/bin/Debug/net9.0/Domain.dll
+/home/sergioff/Development/dotnet/dottask/Domain/bin/Debug/net9.0/Domain.pdb
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/Domain.dll
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/Domain.pdb
+/home/sergioff/Development/dotnet/dottask/Domain/obj/Debug/net9.0/ref/Domain.dll
